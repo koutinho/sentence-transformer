@@ -1,0 +1,1 @@
+docker build --pull --rm -f "Dockerfile" --progress=plain -t koutinho/frame_comparer:latest
